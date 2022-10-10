@@ -11,12 +11,11 @@
 </a>
 <br>
 <br>
-<img src="https://komarev.com/ghpvc/?username=rajdevkar&color=blue">
-<br />
+<!-- <img src="https://komarev.com/ghpvc/?username=rajdevkar&color=blue"> -->
 <br />
 
 Hi there, I'm a **Full Stack Developer** 🚀 from Dombivli, India.
-<!-- <img width="320" align="right" alt="GIF" src="https://media.tenor.com/qH2L1sCWG1AAAAAC/teemo-hi.gif" /> -->
+<img width="320" align="right" alt="GIF" src="https://media.tenor.com/qH2L1sCWG1AAAAAC/teemo-hi.gif" />
 
 **About Me!**
 
