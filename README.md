@@ -16,7 +16,7 @@
 <br />
 
 Hi there, I'm a **Full Stack Developer** 🚀 from Dombivli, India.
-<img width="400" align="right" alt="GIF" src="https://media.tenor.com/qH2L1sCWG1AAAAAC/teemo-hi.gif" />
+<img width="350" align="right" alt="GIF" src="https://media.tenor.com/qH2L1sCWG1AAAAAC/teemo-hi.gif" />
 
 **About Me!**
 
