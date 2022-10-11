@@ -11,7 +11,7 @@
 
 Like My Work?
 
-<a href="https://www.buymeacoffee.com/rajdevkar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<a href="https://www.buymeacoffee.com/rajdevkar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 <img width="320" align="right" alt="GIF" src="https://raw.githubusercontent.com/rajdevkar/rajdevkar/master/assets/teemo-hi.gif" />
 
