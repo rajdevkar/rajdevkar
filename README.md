@@ -4,8 +4,6 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.rajdevkar.dev/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/rajdevkar99)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rajdevkar99/)
-<br />
-<img src="https://komarev.com/ghpvc/?username=rajdevkar&color=blue">
 
 **Full Stack Developer** 🚀 from Dombivli, India | Founder [@buildnboost](https://www.buildnboost.com)
 
