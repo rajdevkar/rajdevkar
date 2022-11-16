@@ -17,7 +17,7 @@ Like My Work?
 
 - 🛠 &nbsp; I’m currently working with ReactJs, React Native, Vue3, Laravel, <br /> Graphql, Mongodb, etc.
 - 📫 &nbsp; How to reach me: [rajdevkar.6@gmail.com](mailto:rajdevkar@gmail.com).
-- 📝 &nbsp; Checkout my [Resume](https://github.com/rajdevkar/rajdevkar/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://raw.githubusercontent.com/rajdevkar/rajdevkar/master/assets/resume.pdf).
 
 
 **Languages and Tools:**  
